@@ -1,4 +1,4 @@
-package services;
+package com.cwcdev.aula.services;
 
 import org.springframework.stereotype.Service;
 
@@ -9,6 +9,5 @@ public class PensionService {
         return amount * 0.1;
 
     }
-
 
 }

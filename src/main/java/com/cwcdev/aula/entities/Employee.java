@@ -1,5 +1,9 @@
-package entities;
+package com.cwcdev.aula.entities;
+
+
+
 public class Employee {
+
     private String name;
     private double grossSalary;
 
